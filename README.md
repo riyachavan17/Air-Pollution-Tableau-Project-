@@ -4,3 +4,4 @@ Integrated multiple data visualizations, including bar charts, pie charts, scatt
 Implemented filters for AQI categories and pollutant contributions, enabling dynamic data exploration.
 Designed a world map visualization to highlight pollution levels across different countries.
 Utilized statistical analysis to assess the impact of pollutants like NO₂ on air quality.
+
